@@ -1,0 +1,15 @@
+﻿img {
+    -webkit-box-shadow: 10px 10px 5px #888888;
+    -ms-box-shadow: 10px 10px 5px #888888;
+    box-shadow: 10px 10px 5px #888888;
+    border: #888888 solid 1px;
+}
+
+.wy-side-nav-search a {
+    content: url('/img/NewHAlogo240px.png');
+    height: 80px;
+}
+
+.wy-nav-content {
+    max-width: 100% !important;
+}
