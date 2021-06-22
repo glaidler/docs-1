@@ -4,7 +4,7 @@
 * [accounts](accounts/README.md)
   * [accountUpload](accounts/accountupload.md)
 * [smartlists](smartlists/README.md)
-  * [Sending a Bulk Email Communication cccccc](smartlists/bulkemailingnew.md)
+  * [Sending a Bulk Email Communication ddddd](smartlists/bulkemailingnew.md)
   * [Creating Letters in Bulk \(Mail Merge\)](smartlists/mailmergenew.md)
   * [Using Smart Lists](smartlists/using.md)
   * [Creating a Smart List](smartlists/creatingasmartlistnew.md)

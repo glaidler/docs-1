@@ -1,4 +1,4 @@
-# Sending a Bulk Email Communication cccccc
+# Sending a Bulk Email Communication ddddd
 
 The Bulk Email function allows you to send Emails to all the members of a Smart List.
 
