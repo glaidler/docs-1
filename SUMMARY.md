@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Harbour Assist](README.md)
+* [Harbour Assist -test](README.md)
 * [accounts](accounts/README.md)
   * [accountUpload](accounts/accountupload.md)
 * [smartlists](smartlists/README.md)
