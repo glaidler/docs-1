@@ -113,7 +113,6 @@
   * [Overview](reporting/reportsoverview.md)
   * [Filtering Reports](reporting/filteringreports.md)
   * [Downloading Reports](reporting/downloadingreports.md)
-* [\_sidebar](_sidebar.md)
 * [Renewals](renewals/README.md)
   * [Allocating Tariffs \#](renewals/allocatedtariffs.md)
   * [Renewal Groups \#](renewals/renewalgroups.md)
@@ -127,7 +126,6 @@
 * [Tasks](tasks/README.md)
   * [Overview](tasks/overview.md)
   * [Creating a Task](tasks/creatingatask.md)
-* [releaseNotes](releasenotes-1.md)
 * [AssetsOccupancy](assetsoccupancy/README.md)
   * [Asset Tiles \#](assetsoccupancy/assettiles.md)
   * [Waiting Lists](assetsoccupancy/waitinglists.md)
@@ -145,5 +143,4 @@
   * [Archiving Accounts](housekeeping/archivingaccounts.md)
 * [Documents](documents/README.md)
   * [Documents](documents/docs.md)
-* [\_coverpage](_coverpage.md)
 
